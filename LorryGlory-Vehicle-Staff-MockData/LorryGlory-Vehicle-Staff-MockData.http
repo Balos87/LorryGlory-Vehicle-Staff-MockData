@@ -1,0 +1,6 @@
+@LorryGlory_Vehicle_Staff_MockData_HostAddress = http://localhost:5065
+
+GET {{LorryGlory_Vehicle_Staff_MockData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
